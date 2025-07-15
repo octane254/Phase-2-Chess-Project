@@ -7,7 +7,7 @@ Frontend (React)
 
 🧠 AI Support
 
-✅ legal move validation.
+✅ Legal move validation.
 
 🔁 Move history tracking
 
