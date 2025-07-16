@@ -16,12 +16,4 @@ Frontend (React)
 📱 Responsive design.
 
 
-### Backend (API)
 
-🔄 RESTful endpoints for:
-
-Move validation
-
-Game creation & updates
-
-Fetching move history
