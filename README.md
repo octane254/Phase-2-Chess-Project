@@ -31,10 +31,3 @@ const players = [
     "Jane Smith",
     "Your Name Here"  // Add your name
 ];
-## FC26 has a new trailer
-zlatan is back 
-const players = [
-    "John Doe",
-    "Jane Smith",
-    "Your Name Here"  // Add your name
-];
